@@ -9,7 +9,7 @@
 
 <h1>Installation</h1>
 
-<li>Git clone https://github.com/Catsarinka/exam_project</li>
+<li>Git clone https://github.com/Catsarinka/exam.git</li>
 <li>cd exam</li>
 <li>composer install</li>
 <li>создать базу данны</li>
